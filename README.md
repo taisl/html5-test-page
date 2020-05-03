@@ -20,6 +20,8 @@ HTML5 Test Page will be maintained using the [Semantic Versioning](http://semver
 
 Made by [@cbracco](http://cbracco.me). This project is based on the [test file](https://github.com/necolas/normalize.css/blob/master/test.html) included in [@necolas](https://github.com/necolas/)’s [normalize.css](https://github.com/necolas/normalize.css/) project.
 
+[Click here](file://C:/)
+
 ## [Contributing](CONTRIBUTING.md)
 
 ## [License](LICENSE)
